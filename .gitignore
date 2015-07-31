@@ -1,0 +1,7 @@
+### https://raw.github.com/github/gitignore/557c62cd54524fe6f7559cab042d91553bb0755e/Global/vagrant.gitignore
+
+.vagrant/
+.librarian
+.tmp
+modules
+
